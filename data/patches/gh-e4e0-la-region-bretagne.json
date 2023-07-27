@@ -1,0 +1,56 @@
+{
+	"id": 3032,
+	"name": "La Région Bretagne",
+	"description": "La Bretagne est une région historique et culturelle du Nord-Ouest de la France, et une des six nations dites celtiques. Ils se sont battus contre les Français histoire de faire leurs intéressants tout en faisant bien chier tous ceux qui gaspillaient leurs pixels sur la Bretagne plutôt que de défendre les frontières de la France. Enormes casse-couilles donc.",
+	"links": {
+		"discord": [
+			"cjEWR8cgxh"
+		]
+	},
+	"path": {
+		"250-256": [
+			[
+				-316,
+				754
+			],
+			[
+				-300,
+				755
+			],
+			[
+				-302,
+				766
+			],
+			[
+				-308,
+				761
+			],
+			[
+				-311,
+				761
+			],
+			[
+				-311,
+				765
+			],
+			[
+				-327,
+				764
+			],
+			[
+				-324,
+				758
+			],
+			[
+				-316,
+				757
+			]
+		]
+	},
+	"center": {
+		"250-256": [
+			-315,
+			761
+		]
+	}
+}
