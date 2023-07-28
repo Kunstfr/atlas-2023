@@ -1,0 +1,56 @@
+{
+	"id": 3030,
+	"name": "Brittany",
+	"description": "La Bretagne est une région historique et culturelle du Nord-Ouest de la France, et une des six nations dites celtiques. Ils se sont battus contre les Français pour avoir leur place sur la carte !Brittany is a historical and cultural region of North-Western France and one of the six celtic nations. They annoyed every French person by forcing their flag into the canvas instead of fighting for the borders of France.",
+	"links": {
+		"discord": [
+			"cjEWR8cgxh"
+		]
+	},
+	"path": {
+		"250-256": [
+			[
+				-316,
+				754
+			],
+			[
+				-300,
+				755
+			],
+			[
+				-302,
+				766
+			],
+			[
+				-308,
+				761
+			],
+			[
+				-311,
+				761
+			],
+			[
+				-311,
+				765
+			],
+			[
+				-327,
+				764
+			],
+			[
+				-324,
+				758
+			],
+			[
+				-316,
+				757
+			]
+		]
+	},
+	"center": {
+		"250-256": [
+			-315,
+			761
+		]
+	}
+}
